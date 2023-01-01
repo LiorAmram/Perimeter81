@@ -1,0 +1,9 @@
+C:\Users\Lior\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.exe.config
+C:\Users\Lior\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.exe
+C:\Users\Lior\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.pdb
+C:\Users\Lior\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.csprojAssemblyReference.cache
+C:\Users\Lior\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.exe
+C:\Users\Lior\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.pdb
+C:\Users\Lior\source\repos\Perimeter\Perimeter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lior\source\repos\Perimeter\Perimeter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lior\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.csproj.CopyComplete
